@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://pvn25.github.io/files/pvn25_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://pvn25.github.io/files/pvn25_img.jpeg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
 
