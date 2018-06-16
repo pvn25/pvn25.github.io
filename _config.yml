@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lantao Yu"
+title                    : "Vraj Shah"
 title_separator          : "-"
-name                     : &name "Lantao Yu"
-description              : &description "Undergraduate, Computer Science Department, Shanghai Jiao Tong University"
+name                     : &name "Vraj Shah"
+description              : &description "Graduate Student, CSE, University of California, San Diego"
 url                      : https://pvn25.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pvn25/pvn25.github.io"
@@ -79,11 +79,11 @@ analytics:
 author:
   name             : "Vraj Shah"
   avatar           : "vraj.jpeg"
-  bio              : "Undergraduate, Computer Science Department, Shanghai Jiao Tong University"
-  location         : "Shanghai, China"
+  bio              : "Graduate Student, CSE, University of California, San Diego"
+  location         : "San Diego, CA"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en"
-  email            : "lantaoyu@hotmail.com"
+  email            : "vps002@eng.ucsd.edu"
   uri              : 
   bitbucket        :
   codepen          :
@@ -91,7 +91,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "LantaoYu"
+  github           : "pvn25"
   google_plus      :
   keybase          :
   instagram        : 
