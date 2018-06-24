@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Vraj Shah"
 title_separator          : "-"
 name                     : &name "Vraj Shah"
-description              : &description "Graduate Student, CSE, University of California, San Diego"
+description              : &description "Graduate Student, CSE, UC San Diego"
 url                      : https://pvn25.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pvn25/pvn25.github.io"
@@ -82,7 +82,7 @@ author:
   bio              : "Graduate Student, CSE, University of California, San Diego"
   location         : "San Diego, CA"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=QsxljNcAAAAJ&hl=en"
   email            : "vps002@eng.ucsd.edu"
   uri              : 
   bitbucket        :
