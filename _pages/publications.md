@@ -4,10 +4,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Deep Learning
-
 <b>[Are Key-Foreign Key Joins Safe to Avoid when Learning High Capacity Classifiers?](https://adalabucsd.github.io/papers/2018_Hamlet_VLDB.pdf)</b> <br>
-<b>Vraj Shah</b>, Arun Kumar, Xiaojin Zhu. <i>In Proceedings of Very Large Data Bases Conferences, VLDB 2018.</i>
+<b>Vraj Shah</b>, Arun Kumar, Xiaojin Zhu. <i> In Proceedings of Very Large Data Bases Conferences, VLDB 2018.</i>
 
 <b>[SpeakQL: Towards Speech-driven Multi-modal Querying](https://adalabucsd.github.io/papers/2017_SpeakQL_HILDA.pdf)</b> <br>
 Dharmil Chandarana, <b>Vraj Shah</b>, Arun Kumar, Lawrence Saul.<i>In Proceedings of Human In Loop Data Analytics, SIGMOD 2017.</i>
