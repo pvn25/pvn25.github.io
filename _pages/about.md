@@ -12,7 +12,7 @@ redirect_from:
   <img src="https://pvn25.github.io/files/pvn25_img.jpeg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
-* I am a second year Ph.D. student in the [Computer Science Department](http://cse.ucsd.edu/) at the  [University of California, San Diego](https://ucsd.edu/). Click [here](http://lantaoyu.com/files/lantaoyu_cv.pdf) to view my up-to-date CV. If you are interested in working with me or knowing more about me, please feel free to [contact me](http://lantaoyu.com/contact/).
+* I am a second year Ph.D. student advised by [Arun Kumar](http://cseweb.ucsd.edu/~arunkk/) in the [Computer Science Department](http://cse.ucsd.edu/) at the  [University of California, San Diego](https://ucsd.edu/). Click [here](https://pvn25.github.io//files/Vraj_CV.pdf) to view my up-to-date CV. If you are interested in working with me or knowing more about me, please feel free to [contact me](http://lantaoyu.com/contact/).
 * I am pursuing Bachelor’s Degree in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). In my sophomore year, I joined [Apex Data and Knowledge Mangement Lab](http://apex.sjtu.edu.cn/) as a research assistant, advised by [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu) and [Prof. Weinan Zhang](http://wnzhang.net/). I also collaborate closely with [Prof. Jun Wang](http://web4.cs.ucl.ac.uk/staff/jun.wang/blog/) in [University College London](https://www.ucl.ac.uk/).
 * My research interests lie in the general area of machine learning, particularly in deep representation learning and reinforcement learning, as well as their applications in sequential decision making, generative modeling, natural language understanding, multi-agent systems and data mining.
 
