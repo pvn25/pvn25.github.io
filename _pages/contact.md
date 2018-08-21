@@ -4,11 +4,8 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Computer Science Department, Stanford University<br>
-Gates Computer Science Building, 353 Serra Mall, Stanford, CA 94305<br>
-Email: lantaoyu [at] stanford.edu
+3230 EBU3B CSE, UCSD <br>
+9500 Gilman Drive, La Jolla, CA 92093 <br>
+Email: vps002 [at] eng.ucsd.edu
 
-Computer Science Department, Shanghai Jiao Tong University<br>
-310 Yifu Building, 800 Dongchuan Rd, Shanghai, China 200240<br>
-Email: yulantao [at] apex.sjtu.edu.cn
 
