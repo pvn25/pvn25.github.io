@@ -8,7 +8,7 @@ author_profile: true
 <b>Vraj Shah</b>, Arun Kumar, Xiaojin Zhu. <i> In Proceedings of Very Large Data Bases Conferences, VLDB 2018.</i>
 
 <b>[SpeakQL: Towards Speech-driven Multi-modal Querying](https://adalabucsd.github.io/papers/2017_SpeakQL_HILDA.pdf)</b> <br>
-Dharmil Chandarana, <b>Vraj Shah</b>, Arun Kumar, Lawrence Saul.<i>In Proceedings of Human In Loop Data Analytics, SIGMOD 2017.</i>
+Dharmil Chandarana, <b>Vraj Shah</b>, Arun Kumar, Lawrence Saul.<i> In Proceedings of Human In Loop Data Analytics, SIGMOD 2017.</i>
 
 <b>[GitHub's Big Data Adaptor: An Eclipse Plugin.](https://dl.acm.org/citation.cfm?id=2886490)</b> <br>
 Ali Sajedi, <b>Vraj Shah</b>, Eleni Stroulia. <i>In Proceedings of 25th Annual International Conference on Computer Science and Software Engineering. IBM CASCON 2015.</i>
