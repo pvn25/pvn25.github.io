@@ -3,6 +3,8 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
+<b>[SpeakQL: Towards Speech-driven Multi-modal Querying](https://pvn25.github.io//files/SRC_SIGMOD.pdf)</b> <br>
+<b>Vraj Shah</b>.<i> In Proceedings of Human In Loop Data Analytics, SRC SIGMOD 2019.</i>
 
 <b>[Are Key-Foreign Key Joins Safe to Avoid when Learning High Capacity Classifiers?](https://adalabucsd.github.io/papers/2018_Hamlet_VLDB.pdf)</b> <br>
 <b>Vraj Shah</b>, Arun Kumar, Xiaojin Zhu. <i> In Proceedings of Very Large Data Bases Conferences, VLDB 2018.</i>
