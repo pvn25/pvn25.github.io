@@ -14,4 +14,5 @@ redirect_from:
 
 
 # Recent News
+* November, 2018. The [SpeakQL](https://adalabucsd.github.io/speakql.html) accpeted to SRC SIGMOD 2019.
 * October, 2017. The [Hamlet++](https://adalabucsd.github.io/hamlet.html) paper is accpeted to VLDB 2018.
