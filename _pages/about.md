@@ -14,6 +14,7 @@ redirect_from:
 
 
 # Recent News
-* April, 2019. Our work on semi-automating data preparation for ML, MLDataPrepZoo is accepted to SIGMOD, DEEM Workshop 2019.
-* November, 2018. The [SpeakQL](https://adalabucsd.github.io/speakql.html) accepted to SRC SIGMOD 2019.
+* April, 2019. Our work on semi-automating data preparation for ML, [MLDataPrepZoo](https://adalabucsd.github.io/sortinghat.html) is accepted to SIGMOD, DEEM Workshop 2019.
+* March, 2019. Our demo on [SpeakQL](https://adalabucsd.github.io/speakql.html) is accepted to SIGMOD 2019.
+* November, 2018. My student research entry on [SpeakQL](https://adalabucsd.github.io/speakql.html) is accepted to SRC SIGMOD 2019.
 * October, 2017. The [Hamlet++](https://adalabucsd.github.io/hamlet.html) paper is accepted to VLDB 2018.
