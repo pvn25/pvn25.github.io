@@ -1,7 +1,7 @@
 ---
 <!-- layout: archive -->
 title: ""
-permalink: /awards/
+permalink: /blogs/
 author_profile: true
 ---
 
