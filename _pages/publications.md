@@ -27,15 +27,17 @@ Ali Sajedi, <b>Vraj Shah</b>, Eleni Stroulia. <i>In Proceedings of 25th Annual I
 
 ## Technical Reports
 
+<b>[SpeakQL: Towards Speech-driven Multi-modal Querying of Structured Data](https://pvn25.github.io//files/TR_2019_SpeakQL_v2.pdf)</b> <br>
+<b>Vraj Shah</b>, Side Li, Arun Kumar, Lawrence Saul.
+
 <b>[SortingHat: Towards Semi-Automatic ML Feature Type Inference](https://pvn25.github.io//files/TR_2019_SortingHat.pdf)</b> <br>
 <b>Vraj Shah</b>,  Premanand Kumar, Kevin Yang, Arun Kumar.
 
 <b>[The ML Data Prep Zoo: Towards Semi-Automatic Data Preparation for ML](https://pvn25.github.io//files/TR_DataPrepZoo.pdf)</b> <br>
 <b>Vraj Shah</b>, Arun Kumar.
 
-<b>[SpeakQL 1.0: Towards Speech-driven Multi-modal Querying of Structured Data](https://pvn25.github.io//files/TR_2019_SpeakQL.pdf)</b> <br>
+<b>[SpeakQL: Towards Speech-driven Multi-modal Querying of Structured Data (old report)](https://pvn25.github.io//files/TR_2019_SpeakQL.pdf)</b> <br>
 <b>Vraj Shah</b>, Side Li, Arun Kumar, Lawrence Saul.
-
 
 <b>[Are Key-Foreign Key Joins Safe to Avoid when Learning High Capacity Classifiers?](https://pvn25.github.io//files/TR_2017_HamletPlusPlus.pdf)</b> <br>
 <b>Vraj Shah</b>, Arun Kumar, Xiaojin Zhu. 
