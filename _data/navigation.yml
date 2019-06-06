@@ -9,8 +9,11 @@ main:
   - title: "Awards & Honors"
     url: /awards/
 
-  - title: "CV/Bio"
-    url: /cv/
+  - title: "Blogs"
+    url: /blogs/    
+
+  # - title: "CV/Bio"
+  #   url: /cv/
 
 
  # - title: "Talks"
@@ -25,8 +28,8 @@ main:
   #- title: "Blogs"
   #  url: /year-archive/
     
-  - title: "Contact"
-    url: /contact/  
+  # - title: "Contact"
+  #   url: /contact/  
     
   # - title: "Guide"
     # url: /markdown/
