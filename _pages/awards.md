@@ -1,9 +1,9 @@
 ---
 <!-- layout: archive -->
-title: "Awards & Honors"
+title: ""
 permalink: /awards/
 author_profile: true
 ---
-* **Microsoft Travel Award**  to attend SIGMOD 2017.	
-* **MITACS Globalink Research Award 2015**.
-* **DAAD WISE fellowship 2015**.
+<b> Microsoft Travel Award </b>  to attend SIGMOD 2017 <br>
+<b> MITACS Globalink Research Award 2015 </b> <br>
+<b> DAAD WISE fellowship 2015 </b> <br>
