@@ -13,11 +13,7 @@ Introduction
 
 Data preparation (prep) still remains a major bottleneck for building any real-world ML application. Several surveys of data science practioners have shown that the time spent in data prep can go as high as 80% of their time. Cloud companies have released AutoML platforms such as Google's AutoML Tables and Salesforce's Einstein that automates the entire ML pipeline, everything from preparing the data, selecting the right features and ML algorithms to tuning the knobs of these algorithms. Unfortunaltely, there does not exist any benchmarks to quantify the goodness of automation for data prep in the AutoML platforms. This would require formalizing the major data prep steps and create benchmark labeled datasets to standardize their evaluation on AutoML platforms. 
 
-
-<p style="text-align:center;">
 <img src="/imgs/automl.png" width="800" alt="error">
-</p>
-
 
 In this line of project(s), we aim to objectively quantify the key data prep taks by creating a commmon understanding of the data prep taks, understand why exactly these tasks are hard to automate, and create benchmark labeled datasets for them. Our focus is on relational data. Such datasets are typically stored with DB schemas in relational database management systems or as CSV or JSON files. A typical data prep workflow is shown below.
 
@@ -30,7 +26,6 @@ In this line of project(s), we aim to objectively quantify the key data prep tak
 Case Study: ML Feature Type Inference
 ============================
 The very first data prep step is to infer the ML feature types from the DB schema. For instance, age is numeric feature and zipcode is categorical. Attributes such as time since and income has numbers embedded in them, which requires some form of extraction in order to be useful as a feature.  This task is hard to be automated because there exist semantic gap between the db schema and the ml schema. The DB schema is syntactic: it tells us the data type of a column such as integer, real, or string. On the other hand, the ML schema is semanticL it tells us what type of a feature a column is. For instance, ZipCodes are usually stored as integers, but it is a categorical feature. However, A synatic tool like Python Pandas will thus treat it as a numeric feature, which can lead to non-sensical results.
-
 <img src="/imgs/semantic_gap.png" width="800" alt="error">
 To bridge this semantic gap, we cast this data prep task as an ml classification problem. In order to do, we need the following 4 things.
 <img src="/imgs/4things.png" width="800" alt="error">
@@ -41,11 +36,16 @@ To bridge this semantic gap, we cast this data prep task as an ml classification
 <img src="/imgs/vocabulary.png" width="800" alt="error">
 </p>
 
+## Features
 
 <p style="text-align:center;">
 <img src="/imgs/features.png" width="800" alt="error">
 </p>
 
+
+## Labeled Dataset
+
+## ML models
 
 <p style="text-align:center;">
 <img src="/imgs/cnn.png" width="800" alt="error">
