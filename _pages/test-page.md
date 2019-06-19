@@ -44,11 +44,11 @@ We replicate the human-level intuition into ML models by extracting signal from 
 <img src="/imgs/features.png" width="800" alt="error">
 </p>
 
-### Labeled Dataset
+## Labeled Dataset
 We obtain over 360 real datasets from several sources such as Kaggle and UCI ML Repo. Each column of the CSV file is just one example for our ML task. We collected over 9000 such examples and manually labelled them into either of the classes. This process took about 75 man hours across 4 months. 
 
 
-### ML models
+## ML models
 
 <p style="text-align:center;">
 <img src="/imgs/cnn.png" width="800" alt="error">
