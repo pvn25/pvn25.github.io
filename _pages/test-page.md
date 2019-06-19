@@ -15,7 +15,7 @@ Data preparation (prep) still remains a major bottleneck for building any real-w
 
 
 <p style="text-align:center;">
-<img src="/imgs/automl.png" width="800" alt="error">
+<img src="imgs/automl.png" width="800" alt="error">
 </p>
 
 
