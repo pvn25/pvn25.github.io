@@ -15,13 +15,21 @@ Data preparation (prep) still remains a major bottleneck for building any real-w
 
 
 <p style="text-align:center;">
-<img src="{{assets/2019-06-10-speakql/automl.png" width="800" alt="error">
+<img src="{{/assets/2019-06-10-speakql/automl.png" width="800" alt="error">
+</p>
+
+
+<p style="text-align:center;">
+<img src="{{assets/2019-06-10-speakql/task-steps.png" width="800" alt="error">
 </p>
 
 
 Case Study: ML Feature Type Inference
 ============================
 
+<p style="text-align:center;">
+<img src="{{assets/2019-06-10-speakql/automl.png" width="800" alt="error">
+</p>
 
 
 
