@@ -1,10 +1,8 @@
 ---
-layout: post
-comments: true
-title:  "Using ML to automate data prep for ML"
-date:   2019-06-10 18:19:32 -0700
-categories: research
-author: Vraj Shah
+<!-- layout: archive -->
+title: ""
+permalink: /test-page/
+author_profile: true
 ---
 
 This post is about our new line of project(s) that aims to automate data preparation (prep) for ML. I'm presenting a workshop [paper](https://adalabucsd.github.io/papers/2019_DataPrepZoo_DEEM.pdf) at DEEM, SIGMOD 2019 titled *The ML Data Prep Zoo: Towards Semi-Automatic Data Preparation for ML*. It is co-authored with my advisor, Arun Kumar.
