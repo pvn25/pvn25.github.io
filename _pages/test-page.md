@@ -48,16 +48,21 @@ We replicate the human-level intuition into ML models by extracting signal from 
 ## Labeled Dataset
 We obtain over 360 real datasets from several sources such as Kaggle and UCI ML Repo. Each column of the CSV file is just one example for our ML task. We collected over 9000 such examples and manually labelled them into either of the classes. This process took about 75 man hours across 4 months. 
 
-
 ## ML models
+We use our feature set on our labeled dataset to build ML models. We compare several ML approaches such as logistic regression, support vector machine with radial basis kernel, Random Forest, k-nearest neighbor
+(k-NN) and a character-level convolutional neural model. The architecture of the neural model is shown below.
 
 <p style="text-align:center;">
 <img src="/imgs/cnn.png" width="800" alt="error">
 </p>
 
+
+We compare our approach with the existing tools: TFDV and Pandas. TFDV is a tool for managing ML-related data in TensorFlow Extended. It uses heuristic rules to infer ML feature types. Python Pandas can only infer syntactic types: int, float and object. Hence, we can not use our 5-class vocabulary for comparison. Instead, we reduce the number of classes and report the results on numeric vs. non-numeric. We notice a massive lift of 30% in accuracy for our approach against both TF-DV and Pandas.
+
 <p style="text-align:center;">
 <img src="/imgs/results.png" width="800" alt="error">
 </p>
+
 
 ML Data Prep Zoo Announcement
 ============================
@@ -66,3 +71,7 @@ ML Data Prep Zoo Announcement
 <p style="text-align:center;">
 <img src="/imgs/leaderboard.png" width="800" alt="error">
 </p>
+
+
+Conclusions
+============================
