@@ -32,9 +32,10 @@ To bridge this semantic gap, we cast this data prep task as an ml classification
 
 <p style="text-align:center;">
 <img src="/imgs/4things.png" width="800" alt="error">
-<p>
+</p>
 
 ## Label Vocabulary
+
 There is usually not enough information in just the raw data file to identify the class (numeric or categorical ) correctly. Consider the following example. 
 <p style="text-align:center;">
 <img src="/imgs/vocabulary.png" width="800" alt="error">
@@ -44,6 +45,7 @@ variety of the columns.
 
 ## Features
 We replicate the human-level intuition into ML models by extracting signal from the raw CSV files that a human reader would look at. Given a column, in order to identify the feature type, a human reader would look at the attribute (or column) name, some sample values in the column and even descriptive statistics about the column such as number of NaNs or number of distinct values. For instance, just by inspecting the attribute name such as ZipCode, an interpretable string, a human would know that the feature type is categorical. We extract these signals from the raw column and we summarize them in a feature set, which we use to build popular ML models.
+
 <p style="text-align:center;">
 <img src="/imgs/features.png" width="800" alt="error">
 </p>
