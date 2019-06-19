@@ -31,15 +31,9 @@ Case Study: ML Feature Type Inference
 ============================
 The very first data prep step is to infer the ML feature types from the DB schema. For instance, age is numeric feature and zipcode is categorical. Attributes such as time since and income has numbers embedded in them, which requires some form of extraction in order to be useful as a feature.  This task is hard to be automated because there exist semantic gap between the db schema and the ml schema. The DB schema is syntactic: it tells us the data type of a column such as integer, real, or string. On the other hand, the ML schema is semanticL it tells us what type of a feature a column is. For instance, ZipCodes are usually stored as integers, but it is a categorical feature. However, A synatic tool like Python Pandas will thus treat it as a numeric feature, which can lead to non-sensical results.
 
-<p style="text-align:center;">
 <img src="/imgs/semantic_gap.png" width="800" alt="error">
-</p>
-
 To bridge this semantic gap, we cast this data prep task as an ml classification problem. In order to do, we need the following 4 things.
-
-<p style="text-align:center;">
 <img src="/imgs/4things.png" width="800" alt="error">
-</p>
 
 ## Label Vocabulary
 
