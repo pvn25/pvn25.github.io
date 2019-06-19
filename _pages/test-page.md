@@ -61,6 +61,7 @@ We use our feature set on our labeled dataset to build ML models. We compare sev
 <img src="/imgs/cnn.png" width="800" alt="error">
 </p>
 
+## Results
 
 We compare our approach with the existing tools: TFDV and Pandas. TFDV is a tool for managing ML-related data in TensorFlow Extended. It uses heuristic rules to infer ML feature types. Python Pandas can only infer syntactic types: int, float and object. Hence, we can not use our 5-class vocabulary for comparison. Instead, we reduce the number of classes and report the results on numeric vs. non-numeric. We notice a massive lift of 30% in accuracy for our approach against both TF-DV and Pandas.
 
@@ -71,6 +72,7 @@ We compare our approach with the existing tools: TFDV and Pandas. TFDV is a tool
 
 ML Data Prep Zoo Announcement
 ============================
+We announce a live public repository for ML data prep tasks [here](https://github.com/pvn25/ML-Data-Prep-Zoo). Repo will contain datasets, ML models and libraries. It includes a leaderboard for public competition We invite contributions to define new tasks, create better featurization, models and/or augment the datasets
 
 
 <p style="text-align:center;">
