@@ -20,7 +20,7 @@ Data preparation (prep) still remains a major bottleneck for building any real-w
 
 
 <p style="text-align:center;">
-<img src="{{site.repository}}/assets/2019-06-10-speakql/task-steps.png" width="800" alt="error">
+<img src="/imgs/task-steps.png" width="800" alt="error">
 </p>
 
 
@@ -28,7 +28,7 @@ Case Study: ML Feature Type Inference
 ============================
 
 <p style="text-align:center;">
-<img src="https://raw.githubusercontent.com/pvn25/pvn25.github.io/master/imgs/semantic-gap.png" width="800" alt="error">
+<img src="/imgs/semantic-gap.png" width="800" alt="error">
 </p>
 
 
