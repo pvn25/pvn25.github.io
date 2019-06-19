@@ -32,6 +32,33 @@ Case Study: ML Feature Type Inference
 </p>
 
 
+<p style="text-align:center;">
+<img src="/imgs/4things.png" width="800" alt="error">
+</p>
+
+
+<p style="text-align:center;">
+<img src="/imgs/vocabulary.png" width="800" alt="error">
+</p>
+
+
+<p style="text-align:center;">
+<img src="/imgs/features.png" width="800" alt="error">
+</p>
+
+
+<p style="text-align:center;">
+<img src="/imgs/cnn.png" width="800" alt="error">
+</p>
+
+<p style="text-align:center;">
+<img src="/imgs/results.png" width="800" alt="error">
+</p>
 
 ML Data Prep Zoo Announcement
 ============================
+
+
+<p style="text-align:center;">
+<img src="/imgs/leaderboard.png" width="800" alt="error">
+</p>
