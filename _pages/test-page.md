@@ -30,6 +30,7 @@ The very first data prep step is to infer the ML feature types from the DB schem
 <p style="text-align:center;">
 <img src="/imgs/4things.png" width="800" alt="error">
 <p>
+
 ## Label Vocabulary
 There is usually not enough information in just the raw data file to identify the class (numeric or categorical ) correctly. Consider the following example. 
 <p style="text-align:center;">
