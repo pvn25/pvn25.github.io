@@ -11,8 +11,10 @@ This post is about our new line of project(s) that aims to automate data prepara
 Introduction
 ============================
 
-Data preparation (prep) still remains a major bottleneck for building any real-world ML application. Several surveys of data science practitioners have shown that the time spent in data prep can go as high as 80% of their time. Cloud companies have released AutoML platforms such as Google's AutoML Tables and Salesforce's Einstein that automates the entire ML pipeline, everything from preparing the data, picking the right features, choosing ML algorithms, to tuning the knobs of these algorithms. Unfortunately, there does not exist any benchmarks to quantify the goodness of automation for data prep in these AutoML platforms. This would require formalizing the major data prep steps and create benchmark labeled datasets to standardize their evaluation. 
+Data preparation (prep) still remains a major bottleneck for building any real-world ML application. Several surveys of data science practitioners have shown that the time spent in data prep can go as high as 80% of their time. Cloud companies have released AutoML platforms such as Google's AutoML Tables and Salesforce's Einstein that automates the entire ML pipeline, everything from preparing the data, picking the right features, choosing ML algorithms, to tuning the knobs of these algorithms. Unfortunately, there does not exist any benchmarks to quantify the goodness of automation for data prep in these AutoML platforms. This would require formalizing the major data prep steps and create benchmark labeled datasets to standardize their evaluation.  
 <img src="/imgs/automl.png" width="800" alt="error">
+Most importantly, the key limiting factor to data prep automation is not ML algorithmic advances, but the availability of large high-quality datasets. For instance, in the task of object classification, Google’s Inception architecture that achieved human-level accuracy used a variant of the CNN algorithm that was proposed way back in 1989. However, the model was trained on the ImageNet dataset corpus of approximately 1.5M images, which was made public in 2009 [3]. In just a few years, the availability of the high-quality image dataset lead to advancement in several image recognition tasks. 
+
 In this line of project(s), we aim to objectively quantify the key data prep tasks by creating a common understanding of them, understand why exactly these tasks are hard to automate and create benchmark labeled datasets for them. Our focus is on relational data. Such datasets are typically stored with DB schemas in relational database management systems or as CSV or JSON files. A typical data prep workflow is shown below.
 
 
@@ -52,16 +54,16 @@ We compare our approach with the existing tools: TFDV and Pandas. TFDV is a tool
 <img src="/imgs/results.png" width="800" alt="error">
 </p>
 
-
-ML Data Prep Zoo Announcement
-============================
-We announce a live public repository for ML data prep tasks [here](https://github.com/pvn25/ML-Data-Prep-Zoo). Repo will contain datasets, ML models and libraries. It includes a leaderboard for public competition We invite contributions to define new tasks, create better featurization, models and/or augment the datasets
-
-
+The overall classification accuracy on the complete 5-class vocabulary is given below.
 <p style="text-align:center;">
 <img src="/imgs/leaderboard.png" width="800" alt="error">
 </p>
 
+ML Data Prep Zoo Announcement
+============================
+We announce a live public repository for common ML data prep tasks [here](https://github.com/pvn25/ML-Data-Prep-Zoo). We plan to release labeled datasets, ML models and Python libraries for the defined data prep tasks. For Task 0, we have already released raw dataset, labeled dataset, pre-trained models and python library for using the model. The repository also includes a leaderboard for public competition on the hosted dataset. We invite practitioners and researchers to use our datasets to create better featurization, models and report their results to the leaderboard. Moreover, we invite contributions to define new tasks along with their own labeled data and models.
+
 
 Conclusions
 ============================
+We envision a community-driven effort for semi-automating data prep based on the philosophy: *Formalize data prep tasks as applied ML tasks and create benchmark labeled datasets*. Our case study on the ML feature type inference task shows that our applied ML approach can lead to substantial boost in accuracy against existing approaches. We invite you to read our full technical [report](https://adalabucsd.github.io/papers/TR_2019_SortingHat.pdf). Feel free to reach us for any questions, suggestions, and/or comments.
