@@ -5,4 +5,6 @@ permalink: /blogs/
 author_profile: true
 ---
 
-<b> Coming Soon ...</b> <br>
+##  [Just Speak SQL](https://adalabucsd.github.io/research-blog/research/2019/06/19/speakql.html)
+
+##  [Using ML to automate data prep for ML](https://adalabucsd.github.io/research-blog/research/2019/06/21/mldataprepzoo.html)
