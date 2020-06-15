@@ -15,7 +15,7 @@ redirect_from:
 
 
 # Recent News
-* March, 2019. [SpeakQL](https://adalabucsd.github.io/papers/2020_SpeakQL_SIGMOD.pdf) paper is accepted to SIGMOD 2019.
+* March, 2020. [SpeakQL](https://adalabucsd.github.io/papers/2020_SpeakQL_SIGMOD.pdf) paper is accepted to SIGMOD 2020.
 * July, 2019. Honored to receive <i> second runner-up </i>  award at SIGMOD SRC 2019.
 * April, 2019. Our work on semi-automating data preparation for ML, [MLDataPrepZoo](https://adalabucsd.github.io/sortinghat.html) is accepted to SIGMOD, DEEM Workshop 2019.
 * March, 2019. Our demo on [SpeakQL](https://adalabucsd.github.io/speakql.html) is accepted to SIGMOD 2019.
