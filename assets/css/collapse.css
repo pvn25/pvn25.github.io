@@ -3,7 +3,7 @@
     border:1px solid #d3d3d3;
 }
 .container div {
-    width:75%;
+    width:100%;
 }
 .container .header {
     background-color:#d3d3d3;
@@ -14,5 +14,3 @@
 .container .content {
     display: none;
     padding : 5px;
-
-{% highlight css %} .center { text-align: center; margin: 0 auto; } {% endhighlight %}
