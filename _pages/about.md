@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 * I am currently a fourth year Ph.D. student, advised by [Dr. Arun Kumar](http://cseweb.ucsd.edu/~arunkk/) in the [Computer Science Department](http://cse.ucsd.edu/) at the  [University of California, San Diego](https://ucsd.edu/). I am a member of [ADA Lab](https://adalabucsd.github.io/) headed by [Dr. Arun Kumar](http://cseweb.ucsd.edu/~arunkk/).
-* My research interests lies in two directions: (1) Simplifying the process of sourcing the data for ML (2) Seamlessly integrating structured and speech data types by designing new speech-augmented systems that makes it easier to analyze data through speech.
+* My research focuses on the synthesis of DB schema management & ML techniques to help simplify and automate critical ML data prep steps on tabular data. 
 * Before starting my Ph.D, I obtained my B.Tech degree from [Indian Institute of Technology, Indore](http://www.iiti.ac.in/).
 * My updated CV is available [here](https://pvn25.github.io//files/My_CV.pdf)
 
