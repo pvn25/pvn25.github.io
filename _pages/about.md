@@ -15,6 +15,8 @@ redirect_from:
 
 
 # Recent News
+* January, 2021. Honored to be invited to serve as part of research track Program Committee for PVLDB 2022.
+* December, 2020. I am now a PhD candidate at UC San Diego!
 * March, 2020. [SpeakQL](https://adalabucsd.github.io/papers/2020_SpeakQL_SIGMOD.pdf) paper is accepted to SIGMOD 2020.
 * July, 2019. Honored to receive <i> second runner-up </i>  award at SIGMOD SRC 2019.
 * April, 2019. Our work on semi-automating data preparation for ML, [MLDataPrepZoo](https://adalabucsd.github.io/sortinghat.html) is accepted to SIGMOD, DEEM Workshop 2019.
