@@ -15,7 +15,7 @@ redirect_from:
 
 
 # Recent News
-* January, 2021. Honored to be invited to serve as part of the research track Program Committee for PVLDB 2022.
+* January, 2021. Honored to be invited to serve as part of the Program Committee for research track PVLDB 2022.
 * December, 2020. I am now a PhD candidate at UC San Diego!
 * March, 2020. [SpeakQL](https://adalabucsd.github.io/papers/2020_SpeakQL_SIGMOD.pdf) paper is accepted to SIGMOD 2020.
 * July, 2019. Honored to receive <i> second runner-up </i>  award at SIGMOD SRC 2019.
