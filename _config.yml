@@ -69,11 +69,13 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 # Analytics
-analytics:
-  provider               : google # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          : "G-ZHTVC5G74B"
+# analytics:
+#   provider               : google # false (default), "google", "google-universal", "custom"
+#   google:
+#     tracking_id          : "G-ZHTVC5G74B"
 
+# Google Analytics
+google_analytics: G-ZHTVC5G74B
 
 
 # Site Author
