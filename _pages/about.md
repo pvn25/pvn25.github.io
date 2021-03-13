@@ -15,6 +15,7 @@ redirect_from:
 
 
 # Recent News
+* March, 2021. [SortingHat](https://adalabucsd.github.io/papers/TR_2021_SortingHat.pdf) paper is accepted to SIGMOD 2021.
 * January, 2021. Honored to be invited to serve as part of the Program Committee for research track PVLDB 2022.
 * December, 2020. I am now a PhD candidate at UC San Diego!
 * March, 2020. [SpeakQL](https://adalabucsd.github.io/papers/2020_SpeakQL_SIGMOD.pdf) paper is accepted to SIGMOD 2020.
