@@ -33,11 +33,11 @@ Ali Sajedi, <b>Vraj Shah</b>, Eleni Stroulia. <i>In Proceedings of 25th Annual I
 
 ## Technical Reports
 
+<b>[Towards Benchmarking Feature Type Inference for AutoML Platforms](https://adalabucsd.github.io/papers/TR_2021_SortingHat.pdf)</b> <br>
+<b>Vraj Shah</b>, Jonathan Lacanlale, Premanand Kumar, Kevin Yang, Arun Kumar.<i> SIGMOD 2021.</i>
+
 <b>[SpeakQL: Towards Speech-driven Multi-modal Querying of Structured Data](https://adalabucsd.github.io/papers/TR_2020_SpeakQL.pdf)</b> <br>
 <b>Vraj Shah</b>, Side Li, Arun Kumar, Lawrence Saul.
-
-<b>[SortingHat: Towards Semi-Automatic ML Feature Type Inference](https://adalabucsd.github.io/papers/TR_2020_SortingHat.pdf)</b> <br>
-<b>Vraj Shah</b>,  Premanand Kumar, Kevin Yang, Arun Kumar.
 
 <b>[Are Key-Foreign Key Joins Safe to Avoid when Learning High Capacity Classifiers?](https://pvn25.github.io//files/TR_2017_HamletPlusPlus.pdf)</b> <br>
 <b>Vraj Shah</b>, Arun Kumar, Xiaojin Zhu. 
