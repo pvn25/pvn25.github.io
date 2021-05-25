@@ -5,10 +5,14 @@ permalink: /awards/
 author_profile: true
 ---
 
-<b> NSF Travel Award </b> to attend VLDB 2018 <br>
+<b> Second Runner-up, SIGMOD Student Research Competition 2019. </b> <br>
 
-<b> Microsoft Travel Award </b>  to attend SIGMOD 2017 <br>
+<b> NSF Travel Award to attend SIGMOD 2019 </b> <br>
+
+<b> NSF Travel Award to attend VLDB 2018 </b> <br>
+
+<b> Microsoft Travel Award to attend SIGMOD 2017 </b> <br>
 
 <b> MITACS Globalink Research Award 2015 </b> <br>
 
-<b> DAAD WISE fellowship 2015 </b> <br>
+<b> DAAD WISE Fellowship 2015 </b> <br>
