@@ -6,6 +6,9 @@ author_profile: true
 
 ## Accepted Papers
 
+<b>[Towards Benchmarking Feature Type Inference for AutoML Platforms](https://adalabucsd.github.io/papers/2021_SortingHat_SIGMOD.pdf)</b> <br>
+<b>Vraj Shah</b>, Jonathan Lacanlale, Premanand Kumar, Kevin Yang, Arun Kumar.<i> SIGMOD 2021.</i>
+
 <b>[SpeakQL: Towards Speech-driven Multimodal Querying of Structured Data](https://adalabucsd.github.io/papers/2020_SpeakQL_SIGMOD.pdf)</b> <br>
 <b>Vraj Shah</b>, Side Li, Kevin Yang, Arun Kumar, Lawrence Saul.<i> SIGMOD 2020.</i>
 
