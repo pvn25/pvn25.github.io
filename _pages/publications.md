@@ -12,13 +12,13 @@ author_profile: true
 <b>[SpeakQL: Towards Speech-driven Multimodal Querying of Structured Data](https://adalabucsd.github.io/papers/2020_SpeakQL_SIGMOD.pdf)</b> <br>
 <b>Vraj Shah</b>, Side Li, Kevin Yang, Arun Kumar, Lawrence Saul.<i> SIGMOD 2020.</i>
 
-<b>[Demonstration of SpeakQL: Speech-driven Multimodal Querying of Structured Data](https://pvn25.github.io//files/2019_SpeakQL_SIGMOD.pdf)</b> <br>
+<b>[Demonstration of SpeakQL: Speech-driven Multimodal Querying of Structured Data](https://pvn25.github.io//papers/2019_SpeakQL_SIGMOD.pdf)</b> <br>
 <b>Vraj Shah</b>, Side Li, Kevin Yang, Arun Kumar, Lawrence Saul.<i> SIGMOD (Demo track) 2019.</i>
 
-<b>[The ML Data Prep Zoo: Towards Semi-Automatic Data Preparation for ML](https://pvn25.github.io//files/2019_DataPrepZoo_DEEM.pdf)</b> <br>
+<b>[The ML Data Prep Zoo: Towards Semi-Automatic Data Preparation for ML](https://pvn25.github.io//papers/2019_DataPrepZoo_DEEM.pdf)</b> <br>
 <b>Vraj Shah</b>, Arun Kumar.<i> SIGMOD DEEM Workshop 2019.</i>
 
-<b>[SpeakQL: Towards Speech-driven Multi-modal Querying](https://pvn25.github.io//files/SRC_SIGMOD.pdf)</b> <br>
+<b>[SpeakQL: Towards Speech-driven Multi-modal Querying](https://pvn25.github.io//papers/SRC_SIGMOD.pdf)</b> <br>
 <b>Vraj Shah</b>.<i> SRC SIGMOD 2019.</i>
 
 <b>[Are Key-Foreign Key Joins Safe to Avoid when Learning High Capacity Classifiers?](https://adalabucsd.github.io/papers/2018_Hamlet_VLDB.pdf)</b> <br>
