@@ -34,7 +34,7 @@ Ali Sajedi, <b>Vraj Shah</b>, Eleni Stroulia. <i>IBM CASCON 2015.</i>
 ## Technical Reports
 
 <b>[Towards Benchmarking Feature Type Inference for AutoML Platforms](https://adalabucsd.github.io/papers/TR_2021_SortingHat.pdf)</b> <br>
-<b>Vraj Shah</b>, Jonathan Lacanlale, Premanand Kumar, Kevin Yang, Arun Kumar.<i> SIGMOD 2021.</i>
+<b>Vraj Shah</b>, Jonathan Lacanlale, Premanand Kumar, Kevin Yang, Arun Kumar.
 
 <b>[SpeakQL: Towards Speech-driven Multi-modal Querying of Structured Data](https://adalabucsd.github.io/papers/TR_2020_SpeakQL.pdf)</b> <br>
 <b>Vraj Shah</b>, Side Li, Arun Kumar, Lawrence Saul.
