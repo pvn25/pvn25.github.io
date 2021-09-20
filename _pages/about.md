@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <center><i>**Looking for full-time opportunities starting Fall 2021**</i></center>
-<center> <a href = "https://pvn25.github.io/papers/My_CV.pdf"> Curriculum Vitae (CV) </a></center>
+<center> <a href = "https://pvn25.github.io/papers/My_CV.pdf"> Curriculum Vitae (CV) </a> | <a href="https://scholar.google.com/citations?user=QsxljNcAAAAJ&hl=en">Google Scholar</a></center>
 
 * I am currently a fifth year Ph.D. student, advised by [Dr. Arun Kumar](http://cseweb.ucsd.edu/~arunkk/) in the [Computer Science Department](http://cse.ucsd.edu/) at the  [University of California, San Diego](https://ucsd.edu/). I am a member of [ADA Lab](https://adalabucsd.github.io/) headed by [Dr. Arun Kumar](http://cseweb.ucsd.edu/~arunkk/).
 * My research focuses on the synthesis of DB schema management & ML techniques to help simplify and automate critical ML data prep steps on tabular data. 
