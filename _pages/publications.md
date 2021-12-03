@@ -4,6 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Under Submission
+
+<b>[An Empirical Study on (Non-)Importance of Cleaning Categorical Duplicates before ML](https://adalabucsd.github.io/papers/TR_2021_CategDedup.pdf)</b> <br>
+
 ## Accepted Papers
 
 <b>[Towards Benchmarking Feature Type Inference for AutoML Platforms](https://adalabucsd.github.io/papers/2021_SortingHat_SIGMOD.pdf)</b> <br>
