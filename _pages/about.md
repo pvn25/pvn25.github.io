@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!-- <center><i>**Looking for full-time opportunities starting Jan 2022**</i></center> -->
 <center> <a href = "https://pvn25.github.io/papers/My_CV.pdf"> Curriculum Vitae (CV) </a> | <a href="https://scholar.google.com/citations?user=QsxljNcAAAAJ&hl=en">Google Scholar</a></center>
 
 * I am currently a Ph.D. candidate in the [Computer Science Department](http://cse.ucsd.edu/) at the  [University of California, San Diego](https://ucsd.edu/), advised by [Dr. Arun Kumar](http://cseweb.ucsd.edu/~arunkk/). I am a member of [ADA Lab](https://adalabucsd.github.io/) headed by [Dr. Arun Kumar](http://cseweb.ucsd.edu/~arunkk/).
