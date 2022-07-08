@@ -7,12 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<center> <a href = "https://pvn25.github.io/papers/My_CV.pdf"> Curriculum Vitae (CV) </a> | <a href="https://scholar.google.com/citations?user=QsxljNcAAAAJ&hl=en">Google Scholar</a></center>
 
 *  I completed my PhD at the University of California San Diego, advised by [Dr. Arun Kumar](http://cseweb.ucsd.edu/~arunkk/) in the [Computer Science Department](http://cse.ucsd.edu/). While at UCSD, I was a member of [ADA Lab](https://adalabucsd.github.io/) headed by [Dr. Arun Kumar](http://cseweb.ucsd.edu/~arunkk/). My research focused on the synthesis of DB schema management & ML techniques to help simplify and automate critical ML data prep steps on tabular data. 
 * Before starting my Ph.D, I obtained my B.Tech degree from [Indian Institute of Technology, Indore](http://www.iiti.ac.in/).
-* My CV is available [here](https://pvn25.github.io/papers/My_CV.pdf)
 
+<center> <a href = "https://pvn25.github.io/papers/My_CV.pdf"> Curriculum Vitae (CV) </a> | <a href="https://scholar.google.com/citations?user=QsxljNcAAAAJ&hl=en">Google Scholar</a></center>
 
 # Recent News
 * January, 2022. Honored to be invited to serve as part of the Program Committee for SIGMOD [DEEM Workshop](http://deem-workshop.org) 2022.
