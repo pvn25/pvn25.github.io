@@ -14,6 +14,9 @@ redirect_from:
 
 <left> <a href = "https://pvn25.github.io/papers/My_CV.pdf"> Curriculum Vitae (CV) </a> | <a href="https://scholar.google.com/citations?user=QsxljNcAAAAJ&hl=en">Google Scholar</a> | <a href = "https://pvn25.github.io/papers/Dissertation_Vraj.pdf"> Dissertation </a> </left>
 
+
+#
+
 # Recent News
 * January, 2022. Honored to be invited to serve as part of the Program Committee for SIGMOD [DEEM Workshop](http://deem-workshop.org) 2022.
 * March, 2021. [SortingHat](https://adalabucsd.github.io/papers/TR_2021_SortingHat.pdf) paper is accepted to SIGMOD 2021.
