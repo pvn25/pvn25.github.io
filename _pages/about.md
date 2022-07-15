@@ -14,7 +14,7 @@ redirect_from:
 
 <p>
 <left> <a href = "https://pvn25.github.io/papers/My_CV.pdf"> Curriculum Vitae (CV) </a> | <a href="https://scholar.google.com/citations?user=QsxljNcAAAAJ&hl=en">Google Scholar</a> | <a href = "https://pvn25.github.io/papers/Dissertation_Vraj.pdf"> Dissertation </a> </left>
-</p>p
+</p>
 
 
 
