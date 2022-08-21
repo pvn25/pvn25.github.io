@@ -82,11 +82,11 @@ google_analytics: G-ZHTVC5G74B
 author:
   name             : "Vraj Shah"
   avatar           : "vraj.jpeg"
-  bio              : "Research Scientist"
+  # bio              : "Research Scientist"
   location         : "San Diego"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=QsxljNcAAAAJ&hl=en"
-  email            : "vps002@eng.ucsd.edu"
+  email            : "vraj@ibm.com"
   uri              : 
   bitbucket        :
   codepen          :
