@@ -6,8 +6,8 @@ main:
   - title: "Awards"
     url: /awards/
 
-  - title: "Service"
-    url: /service/    
+  # - title: "Service"
+  #   url: /service/    
 
   - title: "Blogs"
     url: /blogs/    
