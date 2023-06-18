@@ -19,14 +19,12 @@ redirect_from:
 
 ## Service
 
-<b> Program Committe: </b> 
-SIGMOD: 2024
-VLDB: 2024, 2022
-CODS-COMAD: 2024 
-NeurIPS Table Representation Learning Workshop: 2022
-SIGMOD DEEM Workshop: 2022 
-
-<br>
+<b> Program Committe: </b> <br />
+SIGMOD: 2024 <br />
+VLDB: 2024, 2022 <br />
+CODS-COMAD: 2024 <br />
+NeurIPS Table Representation Learning Workshop: 2022 <br />
+SIGMOD DEEM Workshop: 2022 <br />
 
 <b> External Reviewer: </b> VLDB 2019, VLDB (Demo track) 2018 <br>
 
