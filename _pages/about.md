@@ -26,7 +26,9 @@ CODS-COMAD: 2024 <br />
 NeurIPS Table Representation Learning Workshop: 2022 <br />
 SIGMOD DEEM Workshop: 2022 <br />
 
-<b> External Reviewer: </b> VLDB 2019, VLDB (Demo track) 2018 <br>
+<b> External Reviewer: <br /> 
+VLDB: 2019 <br />
+VLDB (Demo track): 2018
 
 
 <!-- # Recent News
