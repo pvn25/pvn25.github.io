@@ -6,7 +6,10 @@ author_profile: true
 
 ## Under Submission
 
-<b>[An Empirical Study on (Non-)Importance of Cleaning Categorical Duplicates before ML](https://adalabucsd.github.io/papers/TR_2021_CategDedup.pdf)</b> <br>
+<!-- <b>[An Empirical Study on (Non-)Importance of Cleaning Categorical Duplicates before ML](https://adalabucsd.github.io/papers/TR_2021_CategDedup.pdf)</b> <br> -->
+
+<b>[How do Categorical Duplicates Affect ML? A New Benchmark and Empirical Analyses](https://pvn25.github.io//TR_Categ_Dups.pdf)</b> <br>
+
 
 ## Accepted Papers
 
